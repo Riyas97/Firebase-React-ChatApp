@@ -3,7 +3,8 @@
 ## Introduction
 This is a chat application that everybody can use to communicate using text messages in a single channel. To enter the chat, users must first log in using their Google account. Once logged in, users can read previous messages and start sending messages as can be seen below.
 
-![Screenshot](/public/screenshot2.png)
+<img src="public/screenshot1.PNG" alt="drawing" width="700"/>
+
 
 All messages are stored in a Firestore database and are sync in real-time with our React application.
 
